@@ -6,6 +6,7 @@
 
 ## Observações
 
+- Utilize PHP como a linguagem de backend.
 - Priorize que as funcionalidades estejam sendo executadas como descrito e sem erros.
 - Caso utilize o xampp, não precisa instalar nenhum banco pois o mesmo ja vem com o MariaDB que é bem parecido com o MySql mas caso queira utilizar outro banco ou outra forma de armazenar os registros, fique a vontade para escolher oque está mais familiarizado.
 - Dê o seu máximo em relação a organização do código e funcionalidades.
